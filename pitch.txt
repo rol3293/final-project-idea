@@ -1,6 +1,9 @@
 My game idea is survival game. The player has to kill all
 zombies before dying.
 
+The scenario will show how many lives the player has and
+his level.
+
 There is the player and zombies. 
 The player can move any direction and shoot projectiles 
 to defend himself from the zombies. It has 3 lifes.
