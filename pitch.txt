@@ -1,0 +1,20 @@
+My game idea is survival game. The player has to kill all
+zombies before dying.
+
+There is the player and zombies. 
+The player can move any direction and shoot projectiles 
+to defend himself from the zombies. It has 3 lifes.
+The zombies spawn randomly and follows the player. 
+If a zombie touches the player, the 
+player loses a life.
+
+The player wins if he survives all 5 waves(level) of zombies.
+The player loses when all his lifes are gone.
+
+There will be 5 waves/levels. When the player finishes a level,
+he gets a life.
+
+This game is inspired by cod zombies.
+
+I am not looking for someone with a particular skill. Just someone 
+who won't do nothing.
